@@ -1,0 +1,22 @@
+{
+  "name": "resign",
+  "version": "1.0.1",
+  "author": "Michael Payne <michael@technomancy.net>",
+  "description": "Safely drop elevated (root) permissions when no longer needed.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/benighted/resign.git"
+  },
+  "bugs": {
+    "url": "https://github.com/benighted/resign/issues"
+  },
+  "keywords": [
+    "setuid",
+    "setgid",
+    "root",
+    "permissions",
+    "security"
+  ],
+  "license": "GPL-3.0"
+}
